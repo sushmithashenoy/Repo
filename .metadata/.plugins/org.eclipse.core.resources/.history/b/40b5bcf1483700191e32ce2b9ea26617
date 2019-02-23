@@ -1,0 +1,50 @@
+package com.booking.model;
+
+import java.sql.Date;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.persistence.JoinTable;
+import javax.persistence.Table;
+
+@Entity
+@Table(name = "EVENT")
+public class Event {
+	@Id
+	@GeneratedValue(strategy=GenerationType.AUTO)
+	private int reservationID;
+	Date checkIn;
+	Date checkOut;
+	@JoinTable
+	Room room;
+	@JoinTable
+	Guest guest;
+
+	public Date getCheckIn() {
+		return checkIn;
+	}
+
+	public void setCheckIn(Date checkIn) {
+		this.checkIn = checkIn;
+	}
+
+	public Date getCheckOut() {
+		return checkOut;
+	}
+
+	public void setCheckOut(Date checkOut) {
+		this.checkOut = checkOut;
+	}
+
+	public Room getRoom() {
+		return room;
+	}
+
+	public void setRoom(Room room) {
+		this.room = room;
+	}
+
+}

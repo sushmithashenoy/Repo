@@ -1,0 +1,16 @@
+127.0.0.1 - - [22/Feb/2019:13:33:11 +0100] "GET / HTTP/1.1" 404 1074
+127.0.0.1 - - [22/Feb/2019:13:38:42 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:13:39:02 +0100] "GET /BookingApplication/ HTTP/1.1" 200 550
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:13:39:14 +0100] "GET /BookingApplication/LoginServlet?un=sushmitha&pw=shenoy HTTP/1.1" 404 1109
+127.0.0.1 - - [22/Feb/2019:17:03:45 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:17:03:59 +0100] "GET /BookingApplication/ HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:17:04:06 +0100] "GET /BookingApplication/login?un=fdasads&pw=fasdfasdasdf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Feb/2019:17:11:07 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:17:11:41 +0100] "GET /BookingApplication/ HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:17:11:46 +0100] "GET /BookingApplication/login?un=fdsfas&pw=fasfasdf HTTP/1.1" 200 -
+127.0.0.1 - - [22/Feb/2019:18:26:31 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:18:26:42 +0100] "GET /BookingApplication/ HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:18:26:49 +0100] "GET /BookingApplication/login?un=hd&pw=sgds HTTP/1.1" 200 -
+127.0.0.1 - - [22/Feb/2019:18:29:25 +0100] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:18:29:29 +0100] "GET /BookingApplication/ HTTP/1.1" 200 543
+0:0:0:0:0:0:0:1 - - [22/Feb/2019:18:29:34 +0100] "GET /BookingApplication/login?un=fsdfsdf&pw=fsdfsf HTTP/1.1" 200 -

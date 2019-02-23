@@ -1,0 +1,10 @@
+package com.booking.model;
+
+import javax.persistence.*;
+
+@Entity
+public class Tenant {
+	@Id
+	private int Id;
+
+}

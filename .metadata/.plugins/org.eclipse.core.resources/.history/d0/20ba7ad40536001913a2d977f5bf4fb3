@@ -1,0 +1,29 @@
+package com.booking.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class User {
+
+	@Id
+	private int Id;
+	private String username;
+	private String password;
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String newPassword) {
+		password = newPassword;
+	}
+
+	public String getUsername() {
+		return username;
+	}
+
+	public void setUserName(String newUsername) {
+		username = newUsername;
+	}
+
+}

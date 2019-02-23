@@ -1,0 +1,26 @@
+
+q
+squid:S106M"9Replace this use of System.out or System.err by a logger.(©ü¶¤şÿÿÿÿ8¨ÏöÏ‘-H¾RMAJORZ
+CODE_SMELL
+q
+squid:S106h"9Replace this use of System.out or System.err by a logger.(­©ÜÂøÿÿÿÿ8´æ˜Ñ‘-HáRMAJORZ
+CODE_SMELL
+l
+squid:S106j"9Replace this use of System.out or System.err by a logger.(¬¡ûÊ8´æ˜Ñ‘-HâRMAJORZ
+CODE_SMELL
+jsquid:S1135W"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8´æ˜Ñ‘-HàRINFOZ
+CODE_SMELL
+l
+squid:S106["9Replace this use of System.out or System.err by a logger.(ó´¯ƒ8×°ˆÑ‘-HÙRMAJORZ
+CODE_SMELL
+q
+squid:S106L"9Replace this use of System.out or System.err by a logger.(¿Ë·ºÿÿÿÿÿ8Òô‘Î‘-H¼RMAJORZ
+CODE_SMELL
+rsquid:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Ê€Û§úÿÿÿÿH»RBLOCKERZBUG
+l
+squid:S106@"9Replace this use of System.out or System.err by a logger.(¬¡ûÊ8ĞÛŠĞ‘-HºRMAJORZ
+CODE_SMELL
+k
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(‡ı“N8€èÈÎ‘-H¸RMAJORZ
+CODE_SMELL
+_squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³æ˜Ñ‘-HŞRMINORZVULNERABILITY
