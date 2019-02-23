@@ -5,3 +5,6 @@
 1550889725863	Rename type 'Tenant'
 1550889740682	Rename type 'GUEST'
 1550910010635	Copy compilation unit
+1550940347020	Extract method 'addGuest'
+1550940710036	Extract method 'getEvents'
+1550940789270	Extract method 'getRooms'
