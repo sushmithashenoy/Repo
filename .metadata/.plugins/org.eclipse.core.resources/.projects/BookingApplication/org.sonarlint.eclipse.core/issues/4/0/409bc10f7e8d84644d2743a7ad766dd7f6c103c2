@@ -1,0 +1,62 @@
+
+wsquid:S2259S"EA "NullPointerException" could be thrown; "session" is nullable here.(ËÇÇÓûÿÿÿÿ8–þÖø‘-Hü
+RMAJORZBUG
+q
+squid:S106`"9Replace this use of System.out or System.err by a logger.(­©ÜÂøÿÿÿÿ8ü§ßø‘-HðRMAJORZ
+CODE_SMELL
+k
+squid:S106I"9Replace this use of System.out or System.err by a logger.(öÇç48Íã†ÿ‘-HöRMAJORZ
+CODE_SMELL
+’squid:S2293A"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢Žç±øÿÿÿÿ8÷À—õ‘-Hœ
+RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(§Áïƒÿÿÿÿÿ8Ë»Óø‘-Hø
+RMAJORZ
+CODE_SMELL
+tsquid:S2095^"EUse try-with-resources or close this "Session" in a "finally" clause.(±ûö³8ª™Õ’-HªRBLOCKERZBUG
+xsquid:S2259›"EA "NullPointerException" could be thrown; "session" is nullable here.(ËÇÇÓûÿÿÿÿ8„™“ÿ‘-H•RMAJORZBUG
+_squid:S11488"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷À—õ‘-H™
+RMINORZVULNERABILITY
+squid:CommentedOutCodeLineJ"<This block of commented-out lines of code should be removed.(”ôÕê8Íã†ÿ‘-HøRMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(à…ç›ùÿÿÿÿ8ª™Õ’-H«RMAJORZ
+CODE_SMELL
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(†€ÜÎûÿÿÿÿ8÷À—õ‘-HŸ
+RMAJORZ
+CODE_SMELL
+{squid:CallToDeprecatedMethodD"6Remove this use of "createCriteria"; it is deprecated.(ð”¡ý8÷À—õ‘-Hì
+RMINORZ
+CODE_SMELL
+~squid:UselessImportCheck	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8£›²ü‘-HRMINORZ
+CODE_SMELL
+_squid:S1148#"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷À—õ‘-H›
+RMINORZVULNERABILITY
+`squid:S1148™"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8—ç‘ÿ‘-HƒRMINORZVULNERABILITY
+_squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷À—õ‘-H—
+RMINORZVULNERABILITY
+_squid:S1148Q"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷À—õ‘-H˜
+RMINORZVULNERABILITY
+„squid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(Ûõó“ýÿÿÿÿ8Íí–ü‘-HñRMAJORZ
+CODE_SMELL
+usquid:UselessImportCheck
+"4Remove this unused import 'java.util.stream.Stream'.(ó÷Ž”8£›²ü‘-HžRMINORZ
+CODE_SMELL
+squid:S2293F"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æðƒö8Íã†ÿ‘-HôRMINORZ
+CODE_SMELL
+wsquid:S2259y"EA "NullPointerException" could be thrown; "session" is nullable here.(ËÇÇÓûÿÿÿÿ8÷À—õ‘-H–
+RMAJORZBUG
+_squid:S1148e"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8÷À—õ‘-HóRMINORZVULNERABILITY
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(õÜÎ¹ýÿÿÿÿ8ëÜùü‘-H´RMAJORZ
+CODE_SMELL
+wsquid:S2259:"EA "NullPointerException" could be thrown; "session" is nullable here.(ËÇÇÓûÿÿÿÿ8÷À—õ‘-H”
+RMAJORZBUG
+usquid:UnusedPrivateMethodY"3Remove this unused private "getBookedRooms" method.(˜»Ž¦8Íã†ÿ‘-H÷RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLinet"<This block of commented-out lines of code should be removed.(Ûõó“ýÿÿÿÿ8—ç‘ÿ‘-H†RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(ÌÆ—ôúÿÿÿÿ8²üÝü‘-H†RMAJORZ
+CODE_SMELL
+l
+squid:S106H"9Replace this use of System.out or System.err by a logger.(©íˆ¢8Íã†ÿ‘-HõRMAJORZ
+CODE_SMELL

@@ -1,0 +1,26 @@
+
+¡"squid:ClassVariableVisibilityCheck"SMake factory a static final constant or non-public and provide accessors if needed.(¢ÖÈ8©¯Šû‘-HĞRMINORZVULNERABILITY
+„squid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(ÓØÂåúÿÿÿÿ8•‘ˆû‘-HµRMAJORZ
+CODE_SMELL
+wsquid:S22594"EA "NullPointerException" could be thrown; "session" is nullable here.(ËÇÇÓûÿÿÿÿ8•‘ˆû‘-H®RMAJORZBUG
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù‚Áåşÿÿÿÿ8ß°ìô‘-Hè	RMAJORZ
+CODE_SMELL
+_squid:S11482"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8•‘ˆû‘-H¯RMINORZVULNERABILITY
+{squid:CallToDeprecatedMethod+"6Remove this use of "createCriteria"; it is deprecated.(Ö“ÜÃ8•‘ˆû‘-H±RMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(İë×®ÿÿÿÿÿ8•‘ˆû‘-H°RMINORZ
+CODE_SMELL
+q
+squid:S106-"9Replace this use of System.out or System.err by a logger.(×Ôûÿÿÿÿ8•‘ˆû‘-H²RMAJORZ
+CODE_SMELL
+nsquid:S1118":Add a private constructor to hide the implicit public one.(Ş¹Ã•8Šİô‘-HÎ	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²‹ï™ûÿÿÿÿ8ß°ìô‘-Hç	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(¼ÌÄùşÿÿÿÿ8•‘ˆû‘-H¶RMAJORZ
+CODE_SMELL
+dsquid:S1444"-Make this "public static factory" field final(¢ÖÈ8©¯Šû‘-HÏRMINORZVULNERABILITY
+„squid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(ÂàìÁûÿÿÿÿ8•‘ˆû‘-H´RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(æˆ“£8àëÖû‘-HëRMAJORZ
+CODE_SMELL

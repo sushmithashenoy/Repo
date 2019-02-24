@@ -1,18 +1,18 @@
 
-Wsquid:S1181#"%Catch Exception instead of Throwable.(ÃÜ¹ÃÿÿÿÿÿH°RMAJORZ
-CODE_SMELL
-|squid:UselessImportCheck";Remove this unused import 'javax.servlet.http.HttpSession'.(í¨ô8³İåÎ‘-H±RMINORZ
-CODE_SMELL
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(†ƒŸË8³É½Ï‘-H²RMAJORZ
+usquid:UselessImportCheck
+"4Remove this unused import 'com.booking.dao.UserDAO'.(Œõıä8¿Ššõ‘-HÄ
+RMINORZ
 CODE_SMELL
 e
-squid:S106$"9Replace this use of System.out or System.err by a logger.(§üáßH³RMAJORZ
+squid:S1067"9Replace this use of System.out or System.err by a logger.(§üáßHœRMAJORZ
 CODE_SMELL
-gsquid:S1989 "+Add a "try/catch" block for "sendRedirect".(õíˆÿÿÿÿÿÿ8„½éÎ‘-H´RMINORZVULNERABILITY
-rsquid:S1854"9Remove this useless assignment to local variable "event".(éæÑüÿÿÿÿ8³İåÎ‘-HµRMAJORZ
+Wsquid:S11816"%Catch Exception instead of Throwable.(ÃÜ¹ÃÿÿÿÿÿH¡RMAJORZ
 CODE_SMELL
-gsquid:S1161":Add the "@Override" annotation above this method signature(ÅµÄèH¶RMAJORZ
+l
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ƒŸË8³É½Ï‘-HŸRMAJORZ
 CODE_SMELL
-csquid:S1481"*Remove this unused "event" local variable.(éæÑüÿÿÿÿ8³İåÎ‘-H·RMINORZ
+gsquid:S1161":Add the "@Override" annotation above this method signature(ÅµÄèH›RMAJORZ
+CODE_SMELL
+gsquid:S19893"+Add a "try/catch" block for "sendRedirect".(Ş®à„ıÿÿÿÿ8¼³ ÿ‘-H¦RMINORZVULNERABILITY
+squid:CommentedOutCodeLine+"<This block of commented-out lines of code should be removed.(ğ‰‰8¼³ ÿ‘-H§RMAJORZ
 CODE_SMELL

@@ -4613,5 +4613,14 @@
 		<servlet-name>booking</servlet-name>
 		<url-pattern>/booking</url-pattern>
 	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>event</servlet-name>
+		<servlet-class>com.booking.service.EventServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>event</servlet-name>
+		<url-pattern>/event</url-pattern>
+	</servlet-mapping>
 
 </web-app>

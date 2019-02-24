@@ -8,3 +8,6 @@
 1550940347020	Extract method 'addGuest'
 1550940710036	Extract method 'getEvents'
 1550940789270	Extract method 'getRooms'
+1550997375603	Infer generic type arguments
+1551018910566	Copy file
+1551025143630	Copy file

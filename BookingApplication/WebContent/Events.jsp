@@ -1,0 +1,270 @@
+<%@ page language="java" contentType="text/html; charset=windows-1256"
+	pageEncoding="windows-1256"%>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<style>
+body {
+	background: url('Images/welcome.jpg') no-repeat center center fixed;
+	/* For IE 6 and 7 */
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	color: white;
+	font-family: cursive;
+	font-weight: bold;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+/* Set a style for all buttons */
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+}
+
+.card {
+	width: 150px;
+	height: 150px;
+}
+
+button:hover {
+	opacity: 0.8;
+}
+
+/* Extra styles for the cancel button */
+.cancelbtn {
+	/* 	width: auto;
+	padding: 10px 18px; */
+	background-color: #f44336;
+}
+
+/* Center the image and position the close button */
+.imgcontainer {
+	text-align: center;
+	margin: 24px 0 12px 0;
+	position: relative;
+}
+
+img.avatar {
+	width: 40%;
+	border-radius: 50%;
+}
+
+.container {
+	padding: 16px;
+}
+
+span.psw {
+	float: right;
+	padding-top: 16px;
+}
+
+/* The Modal (background) */
+.modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+	padding-top: 60px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+	background-color: #fefefe;
+	margin: 5% auto 15% auto;
+	/* 5% from the top, 15% from the bottom and centered */
+	border: 1px solid #888;
+	width: 80%; /* Could be more or less, depending on screen size */
+}
+
+/* The Close Button (x) */
+.close {
+	position: absolute;
+	right: 25px;
+	top: 0;
+	color: #000;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+.close:hover, .close:focus {
+	color: red;
+	cursor: pointer;
+}
+
+/* Add Zoom Animation */
+.animate {
+	-webkit-animation: animatezoom 0.6s;
+	animation: animatezoom 0.6s
+}
+
+@
+-webkit-keyframes animatezoom {
+	from {-webkit-transform: scale(0)
+}
+
+to {
+	-webkit-transform: scale(1)
+}
+
+}
+@
+keyframes animatezoom {
+	from {transform: scale(0)
+}
+
+to {
+	transform: scale(1)
+}
+
+}
+
+/* Change styles for span and cancel button on extra small screens */
+@media screen and (max-width: 300px) {
+	span.psw {
+		display: block;
+		float: none;
+	}
+	.cancelbtn {
+		width: 100%;
+	}
+}
+
+table, th, td {
+    border: 0.25px solid black;
+    background-color: grey;
+    padding: 10px;
+    border-color: black;
+}
+</style>
+</head>
+<body>
+
+	<%@page import="java.util.ArrayList"%>
+	<%--Importing all the dependent classes--%>
+	<%@page import="com.booking.model.Event"%>
+	<%@page import="java.util.Iterator"%>
+
+	<%
+		ArrayList<Event> events = (ArrayList) request.getAttribute("events");
+	%>
+	<%--Assigning ArrayList object containing Employee data to the local object --%>
+
+	<strong><a href="<%=request.getContextPath()%>/UserLogged.jsp">Back</a></strong>
+	<strong><a style="float: right;"
+		href="<%=request.getContextPath()%>/Welcome.jsp">Logout</a></strong>
+	<br></br>
+
+	<table cellspacing="2" cellpadding="2">
+
+		<tr>
+			<th>Check In</th>
+			<th>Check Out</th>
+			<th>Reservation Id</th>
+			<th>Room No</th>
+			<th>Guest Name</th>
+		</tr>
+		<%
+			// Iterating through subjectList
+
+			if (request.getAttribute("events") != null) // Null check for the object
+			{
+				Iterator<Event> iterator = events.iterator(); // Iterator interface
+
+				while (iterator.hasNext()) // iterate through all the data until the last record
+				{
+					Event event = iterator.next(); //assign individual employee record to the employee class object
+		%>
+		<tr>
+			<td><%=event.getCheckIn()%></td>
+			<td><%=event.getCheckOut()%></td>
+			<td><%=event.getReservationID()%></td>
+			<td><%=event.getRoom().getRoomNo()%></td>
+			<td><%=event.getGuest().getName()%></td>
+		</tr>
+		<%
+			}
+			}
+		%>
+	</table>
+
+
+</body>
+</html>
+<%-- <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<%@page import="java.util.ArrayList"%>      Importing all the dependent classes
+<%@page import="com.booking.model.Event"%>
+<%@page import="java.util.Iterator"%> 
+ 
+<% ArrayList<Event> events = (ArrayList) request.getAttribute("events"); %> Assigning ArrayList object containing Employee data to the local object
+ 
+<strong><a href="<%=request.getContextPath()%>/IteratorExample?type=getDetails">Show Employee Details</a></strong>
+<br></br>
+ 
+<table cellspacing="2" cellpadding="2">
+ 
+<tr><th>Check In </th><th>Check Out</th><th>Reservation Id</th><th>Room No</th><th>Guest Name</th></tr>
+<%
+// Iterating through subjectList
+ 
+if(request.getAttribute("events") != null)  // Null check for the object
+{
+ Iterator<Event> iterator = events.iterator();  // Iterator interface
+ 
+ while(iterator.hasNext())  // iterate through all the data until the last record
+ {
+	 Event event = iterator.next(); //assign individual employee record to the employee class object
+ %>
+ <tr>
+ <td><%= event.getCheckIn() %></td>
+ <td><%= event.getCheckOut() %></td>
+ <td><%= event.getReservationID() %></td>
+  <td><%= event.getRoom().getRoomNo() %></td>
+  <td><%= event.getGuest().getName() %></td>
+ </tr>
+ <%
+ }
+}
+%>
+</table>
+ 
+</body>
+</html> --%>

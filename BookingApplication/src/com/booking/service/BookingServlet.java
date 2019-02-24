@@ -6,6 +6,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
+import com.booking.dao.BookingDao;
 import com.booking.dao.UserDAO;
 import com.booking.model.Event;
 import com.booking.model.Guest;
@@ -17,6 +18,7 @@ public class BookingServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
 
+	
 	public void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, java.io.IOException {
 		try {
@@ -26,7 +28,8 @@ public class BookingServlet extends HttpServlet {
 			guest.setEmail(request.getParameter("txtEmail"));
 			guest.setContact(request.getParameter("contact"));
 			System.out.println("in booking servlet");
-			Event event = UserDAO.makeBooking(guest, request.getParameter("from"), request.getParameter("to"));
+			Event event = BookingDao.makeBooking(guest, request.getParameter("from"), request.getParameter("to"));
+			if(event!=null) {
 			request.setAttribute("name", guest.getName());
 			request.setAttribute("room", event.getRoom().getRoomNo());
 			request.setAttribute("booking", event.getReservationID());
@@ -34,8 +37,18 @@ public class BookingServlet extends HttpServlet {
 			request.setAttribute("to", event.getCheckOut());
 			RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("BookingConfirmation.jsp");
 			dispatcher.forward(request, response);
+			}
 		} catch (Exception e) {
-			response.sendRedirect("BookingError.jsp"); // error page
+			
+//			Guest guest = new Guest();
+//			guest.setName(request.getParameter("fn") + " " + request.getParameter("ln"));
+//			guest.setEmail(request.getParameter("txtEmail"));
+//			guest.setContact(request.getParameter("contact"));
+//			request.setAttribute("from", request.getParameter("from"));
+//			request.setAttribute("to", request.getParameter("to"));
+//			RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("BookingConfirmation.jsp");
+//			dispatcher.forward(request, response);
+		response.sendRedirect("BookingError.jsp"); // error page
 		}
 
 		catch (Throwable theException) {

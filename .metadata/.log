@@ -3256,3 +3256,1977 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jdt.debug 2 0 2019-02-23 16:21:54.507
 !MESSAGE Unable to find location of java.lang.Thread.setName() in debuggee JVM, for type java.lang.Thread
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-23 20:25:22.506
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 09:13:20.574
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 09:18:23.000
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 09:37:25.239
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 09:42:25.044
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.214
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.227
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.237
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.245
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.255
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.264
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.273
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.281
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.292
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.301
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.556
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:14.564
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:15.034
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:15.041
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:35:18.480
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.104
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.114
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.122
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.131
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.138
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.147
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.154
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.162
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.170
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.181
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.452
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.460
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.864
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:46.869
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:39:50.352
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.843
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.883
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.892
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.909
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.916
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.924
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:01.931
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:02.008
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:02.065
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:02.083
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:02.503
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:02.511
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:03.198
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:03.205
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 11:41:06.627
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:32:44.589
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.651
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.664
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.673
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.680
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.688
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.697
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.705
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.717
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.727
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.738
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:43.997
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:44.005
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:44.432
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:44.437
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:35:47.846
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:36:45.752
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:55:29.084
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.205
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.235
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.245
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.259
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.272
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.285
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.292
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.300
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.306
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.314
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.609
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:37.619
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:38.053
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:38.062
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 12:59:41.842
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:05:46.504
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:25.978
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:25.998
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.010
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.021
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.031
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.042
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.052
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.063
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.075
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.086
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.374
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.380
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.848
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:26.857
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:08:30.549
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:35.974
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:35.988
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:35.999
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.009
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.019
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.031
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.040
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.047
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.055
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.064
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.330
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.337
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.756
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:36.764
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:11:40.291
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.685
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.703
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.714
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.726
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.738
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.748
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.764
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.773
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.802
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:37.816
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:38.109
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:38.120
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:38.583
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:38.593
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:23:42.154
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.668
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.683
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.691
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.701
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.710
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.720
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.729
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.737
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.746
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:22.754
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:23.037
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:23.044
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:23.468
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:23.477
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:39:27.229
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.228
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.241
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.251
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.257
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.266
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.274
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.283
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.291
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.300
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.308
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.576
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:58.584
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:59.012
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:40:59.020
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:41:02.743
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.264
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.278
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.288
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.297
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.305
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.312
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.322
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.331
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.340
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.350
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.645
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:54.652
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:55.077
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:55.085
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:48:58.665
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.471
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.483
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.493
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.502
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.511
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.518
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.526
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.534
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.540
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.546
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.825
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:44.831
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:45.246
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:45.255
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:50:48.796
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-24 13:53:49.482
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.274
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.288
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.297
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.308
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.317
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.327
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.337
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.345
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.354
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.362
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.642
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:05.648
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:06.070
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:06.077
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:54:09.859
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.826
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.839
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.850
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.859
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.870
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.879
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.889
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.898
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.907
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:48.916
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:49.204
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:49.210
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:49.652
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:49.660
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:55:53.191
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:57:51.719
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.304
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.317
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.326
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.334
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.344
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.351
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.361
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.369
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.378
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.387
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.658
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:31.667
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:32.064
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:32.074
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 13:58:35.848
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.520
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.541
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.551
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.580
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.589
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.598
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.608
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.616
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.665
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:24.675
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:25.411
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:25.422
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:26.126
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:26.133
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:00:29.648
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.673
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.685
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.692
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.700
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.708
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.716
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.725
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.734
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.742
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:44.752
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:45.038
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:45.047
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:45.506
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:45.513
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:01:49.245
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.484
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.497
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.506
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.516
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.524
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.534
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.542
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.551
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.562
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.571
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.962
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:35.974
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:36.396
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:36.404
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:04:39.984
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.093
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.109
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.123
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.134
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.143
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.160
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.169
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.177
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.187
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.195
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.488
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.494
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:33.994
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:34.003
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:08:37.731
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.208
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.229
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.240
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.249
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.258
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.269
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.277
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.287
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.296
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.307
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.628
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:12.637
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:13.238
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:13.247
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:11:17.059
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.479
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.495
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.506
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.517
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.530
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.539
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.549
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.558
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.568
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.579
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.956
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:27.965
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:29.938
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:29.945
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:12:33.826
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 14:17:12.727
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.649
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.700
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.713
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.727
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.737
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.762
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.770
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.779
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.787
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:35.797
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:36.150
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:36.159
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:36.634
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:36.643
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:13:40.959
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.427
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.442
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.455
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.475
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.491
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.520
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.531
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.544
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.553
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.564
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.939
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:43.947
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:44.384
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:14:44.392
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:17:04.133
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:21:44.367
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.390
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.413
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.428
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.442
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.450
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.462
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.470
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.477
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.483
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.493
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.779
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:15.787
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:16.245
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:16.256
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:47:19.887
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-24 15:48:42.857
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.871
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.888
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.902
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.909
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.918
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.926
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.935
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.943
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.954
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:23.963
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:24.307
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:24.315
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:24.812
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:24.819
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 15:54:28.557
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.386
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.398
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.407
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.418
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.426
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.436
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.446
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.454
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.465
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.483
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.914
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:52.923
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:53.362
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:53.368
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:47:57.540
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.219
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.234
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.244
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.252
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.272
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.284
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.293
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.304
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.313
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.322
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.643
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:25.652
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:26.101
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:26.111
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:51:30.181
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.465
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.477
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.487
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.496
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.505
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.515
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.523
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.534
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.544
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.552
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.861
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:51.868
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:52.332
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:52.339
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 16:56:56.305
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 17:37:36.877
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-24 17:56:54.419
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 18:05:06.977
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+!SESSION 2019-02-24 18:06:19.917 -----------------------------------------------
+eclipse.buildId=4.10.0.I20181206-0815
+java.version=1.8.0_201
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data file:/C:/Repo/Repo/ -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2019-02-24 18:07:41.058
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-02-24 18:07:46.943
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\interfaceMA'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 18:07:53.102
+!MESSAGE GWT: GWT Facet startup
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:07:55.486
+!MESSAGE While loading class "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant", thread "Thread[Worker-4: Building workspace,5,main]" timed out waiting (5002ms) for thread "Thread[org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor,1,main]" to finish starting bundle "com.gwtplugins.gdt.eclipse.suite.update_3.0.0.201710131939 [961]". To avoid deadlock, thread "Thread[Worker-4: Building workspace,5,main]" is proceeding but "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="3.0.0.201710131939"; osgi.identity="com.gwtplugins.gdt.eclipse.suite.update"; singleton:="true" [id=961] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:196)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 33 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:196)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:08:00.567
+!MESSAGE While loading class "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant$2", thread "Thread[Worker-4: Building workspace,5,main]" timed out waiting (5001ms) for thread "Thread[org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor,1,main]" to finish starting bundle "com.gwtplugins.gdt.eclipse.suite.update_3.0.0.201710131939 [961]". To avoid deadlock, thread "Thread[Worker-4: Building workspace,5,main]" is proceeding but "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant$2" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="3.0.0.201710131939"; osgi.identity="com.gwtplugins.gdt.eclipse.suite.update"; singleton:="true" [id=961] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getDeclaredConstructor(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:206)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 36 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getDeclaredConstructor(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:206)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:08:05.580
+!MESSAGE While loading class "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant$1", thread "Thread[Worker-4: Building workspace,5,main]" timed out waiting (5002ms) for thread "Thread[org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor,1,main]" to finish starting bundle "com.gwtplugins.gdt.eclipse.suite.update_3.0.0.201710131939 [961]". To avoid deadlock, thread "Thread[Worker-4: Building workspace,5,main]" is proceeding but "com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant$1" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="3.0.0.201710131939"; osgi.identity="com.gwtplugins.gdt.eclipse.suite.update"; singleton:="true" [id=961] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getDeclaredConstructor(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:206)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 36 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.getDeclaredConstructor(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:206)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants$1.run(JavaModelManager.java:466)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:459)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.initializeBuilder(JavaBuilder.java:610)
+	at org.eclipse.jdt.internal.core.builder.JavaBuilder.build(JavaBuilder.java:176)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:833)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:08:10.626
+!MESSAGE While loading class "com.google.gdt.eclipse.suite.preferences.GdtPreferences", thread "Thread[org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor,1,main]" timed out waiting (5012ms) for thread "Thread[Worker-4: Building workspace,5,main]" to finish starting bundle "com.gwtplugins.gdt.eclipse.suite_3.0.0.201710131939 [960]". To avoid deadlock, thread "Thread[org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor,1,main]" is proceeding but "com.google.gdt.eclipse.suite.preferences.GdtPreferences" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="3.0.0.201710131939"; osgi.identity="com.gwtplugins.gdt.eclipse.suite"; singleton:="true" [id=960] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:39)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant.isActive(UpdateTriggerCompilationParticipant.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:473)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.notifyParticipants(ReconcileWorkingCopyOperation.java:241)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:99)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:802)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1322)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1281)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:550)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:348)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:430)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:173)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:250)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:208)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:269)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:321)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:258)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:692)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 31 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.sources.SingleSourcePackage.loadClass(SingleSourcePackage.java:39)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:469)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.google.gdt.eclipse.suite.update.builders.UpdateTriggerCompilationParticipant.isActive(UpdateTriggerCompilationParticipant.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelManager$CompilationParticipants.getCompilationParticipants(JavaModelManager.java:473)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.notifyParticipants(ReconcileWorkingCopyOperation.java:241)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:99)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:736)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:802)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1322)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1281)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:550)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:348)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:430)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:173)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:250)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:208)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:269)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:321)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:258)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:692)
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:08:18.342
+!MESSAGE While loading class "org.sonarlint.eclipse.core.internal.adapter.DefaultSonarLintAdapterFactory", thread "Thread[main,6,main]" timed out waiting (5003ms) for thread "Thread[Worker-3: Decoration Calculation,5,main]" to finish starting bundle "org.sonarlint.eclipse.core_4.1.0.201901311043 [970]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "org.sonarlint.eclipse.core.internal.adapter.DefaultSonarLintAdapterFactory" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="4.1.0.201901311043"; osgi.identity="org.sonarlint.eclipse.core"; singleton:="true" [id=970] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:196)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.loadFactory(AdapterFactoryProxy.java:142)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:333)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:365)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:99)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:309)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:251)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:109)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:151)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:131)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:342)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:473)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:468)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5148)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 75 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.osgi.internal.framework.EquinoxBundle.loadClass(EquinoxBundle.java:612)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:196)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:934)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:246)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:63)
+	at org.eclipse.core.internal.adapter.AdapterFactoryProxy.loadFactory(AdapterFactoryProxy.java:142)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:333)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:365)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:99)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:309)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:251)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:109)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:151)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:131)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:342)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:473)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:468)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5148)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+
+!ENTRY org.eclipse.osgi 2 0 2019-02-24 18:08:23.413
+!MESSAGE While loading class "org.sonarlint.eclipse.core.resource.ISonarLintProject", thread "Thread[main,6,main]" timed out waiting (5002ms) for thread "Thread[Worker-3: Decoration Calculation,5,main]" to finish starting bundle "org.sonarlint.eclipse.core_4.1.0.201901311043 [970]". To avoid deadlock, thread "Thread[main,6,main]" is proceeding but "org.sonarlint.eclipse.core.resource.ISonarLintProject" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="4.1.0.201901311043"; osgi.identity="org.sonarlint.eclipse.core"; singleton:="true" [id=970] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:344)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.core.internal.runtime.AdapterManager.classForName(AdapterManager.java:167)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:336)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:365)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:99)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:309)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:251)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:109)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:151)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:131)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:342)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:473)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:468)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5148)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	... 70 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:341)
+	at org.eclipse.osgi.container.Module.start(Module.java:408)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:471)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:117)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:557)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:331)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:473)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:422)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:414)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:153)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.eclipse.core.internal.runtime.AdapterManager.classForName(AdapterManager.java:167)
+	at org.eclipse.core.internal.runtime.AdapterManager.getAdapter(AdapterManager.java:336)
+	at org.eclipse.core.internal.runtime.AdapterManager.loadAdapter(AdapterManager.java:365)
+	at org.eclipse.core.internal.expressions.AdaptExpression.evaluate(AdaptExpression.java:99)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.failsEnablement(RegistryPageContributor.java:309)
+	at org.eclipse.ui.internal.dialogs.RegistryPageContributor.isApplicableTo(RegistryPageContributor.java:251)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:218)
+	at org.eclipse.ui.internal.dialogs.PropertyPageContributorManager.getApplicableContributors(PropertyPageContributorManager.java:237)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.hasPropertyPagesFor(PropertyDialogAction.java:109)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:151)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.isApplicableForSelection(PropertyDialogAction.java:131)
+	at org.eclipse.ui.internal.navigator.resources.actions.PropertiesActionProvider.fillContextMenu(PropertiesActionProvider.java:63)
+	at org.eclipse.ui.navigator.NavigatorActionService$2.run(NavigatorActionService.java:228)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.navigator.NavigatorActionService.addCommonActionProviderMenu(NavigatorActionService.java:222)
+	at org.eclipse.ui.navigator.NavigatorActionService.fillContextMenu(NavigatorActionService.java:177)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.fillContextMenu(CommonNavigatorManager.java:258)
+	at org.eclipse.ui.navigator.CommonNavigatorManager.lambda$1(CommonNavigatorManager.java:270)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:342)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:473)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:468)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:259)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4131)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1055)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1060)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:5148)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4797)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:348)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1502)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2153)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4770)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:253)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:3985)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3541)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1173)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1062)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:156)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:636)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:563)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:151)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:155)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:400)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:659)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:595)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1501)
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 18:10:17.424
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:02:28.566
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:03:03.941
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.

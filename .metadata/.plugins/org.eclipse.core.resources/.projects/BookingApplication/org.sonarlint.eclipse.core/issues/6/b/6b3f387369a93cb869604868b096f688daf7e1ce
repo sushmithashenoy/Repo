@@ -1,26 +1,45 @@
 
-q
-squid:S106M"9Replace this use of System.out or System.err by a logger.(©ü¶¤şÿÿÿÿ8¨ÏöÏ‘-H¾RMAJORZ
+xsquid:UselessImportCheck"7Remove this unused import 'java.text.SimpleDateFormat'.(ú¡ÙÛ8µë—õ‘-H«
+RMINORZ
 CODE_SMELL
-q
-squid:S106h"9Replace this use of System.out or System.err by a logger.(­©ÜÂøÿÿÿÿ8´æ˜Ñ‘-HáRMAJORZ
+ysquid:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Ê€Û§úÿÿÿÿ8ÅüçÚ‘-HRBLOCKERZBUG
+usquid:UselessImportCheck
+"4Remove this unused import 'javax.persistence.Query'.(¢ğö8µë—õ‘-H®
+RMINORZ
 CODE_SMELL
-l
-squid:S106j"9Replace this use of System.out or System.err by a logger.(¬¡ûÊ8´æ˜Ñ‘-HâRMAJORZ
+tsquid:UselessImportCheck"3Remove this unused import 'com.booking.model.Room'.(“«õ8µë—õ‘-H¯
+RMINORZ
 CODE_SMELL
-jsquid:S1135W"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8´æ˜Ñ‘-HàRINFOZ
+‹squid:UselessImportCheck"ERemove this unused import 'org.hibernate.criterion.DetachedCriteria'.(µ±·‘üÿÿÿÿ8êÎÙÛ‘-H®RMINORZ
 CODE_SMELL
-l
-squid:S106["9Replace this use of System.out or System.err by a logger.(ó´¯ƒ8×°ˆÑ‘-HÙRMAJORZ
+}squid:UselessImportCheck"<Remove this unused import 'org.hibernate.cfg.Configuration'.(ö¬ä8å²İô‘-HØ	RMINORZ
 CODE_SMELL
-q
-squid:S106L"9Replace this use of System.out or System.err by a logger.(¿Ë·ºÿÿÿÿÿ8Òô‘Î‘-H¼RMAJORZ
+rsquid:UselessImportCheck"1Remove this unused import 'java.text.DateFormat'.(÷Œá¼8µë—õ‘-H±
+RMINORZ
 CODE_SMELL
-rsquid:S2095"EUse try-with-resources or close this "Session" in a "finally" clause.(Ê€Û§úÿÿÿÿH»RBLOCKERZBUG
-l
-squid:S106@"9Replace this use of System.out or System.err by a logger.(¬¡ûÊ8ĞÛŠĞ‘-HºRMAJORZ
+vsquid:UselessImportCheck"5Remove this unused import 'java.text.ParseException'.(ñ®ï•8µë—õ‘-H°
+RMINORZ
 CODE_SMELL
-k
-squid:S106Z"9Replace this use of System.out or System.err by a logger.(‡ı“N8€èÈÎ‘-H¸RMAJORZ
+‚squid:UselessImportCheck"ARemove this unused import 'org.hibernate.criterion.Restrictions'.(µ¾‘8µë—õ‘-H¨
+RMINORZ
 CODE_SMELL
-_squid:S1148X"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8³æ˜Ñ‘-HŞRMINORZVULNERABILITY
+zsquid:UselessImportCheck"4Remove this unused import 'com.booking.model.Event'.(ÏÈ‡Ÿüÿÿÿÿ8µë—õ‘-Hª
+RMINORZ
+CODE_SMELL
+usquid:UselessImportCheck"4Remove this unused import 'com.booking.model.Guest'.(£°‡8ïÚ˜õ‘-HÂ
+RMINORZ
+CODE_SMELL
+lsquid:UselessImportCheck"+Remove this unused import 'java.util.Date'.(¸…¼ü8µë—õ‘-H©
+RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8µë—õ‘-H¬
+RMINORZ
+CODE_SMELL
+qsquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8µë—õ‘-H­
+RMINORZ
+CODE_SMELL
+ysquid:UselessImportCheck"3Remove this unused import 'org.hibernate.Criteria'.(öÏ¨ÿÿÿÿÿ8µë—õ‘-H§
+RMINORZ
+CODE_SMELL
+squid:UselessImportCheck"9Remove this unused import 'org.hibernate.SessionFactory'.(ñ¦«¬şÿÿÿÿ8å²İô‘-H×	RMINORZ
+CODE_SMELL

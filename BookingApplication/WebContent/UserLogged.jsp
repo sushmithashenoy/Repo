@@ -13,9 +13,75 @@
 <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 <script>
+function submitForm(x){
+    if(x.id=='id2'){
+       document.getElementById('id2').value='event';
+    }
+ }
 	$(function() {
 		$(".datepicker").datepicker();
 	});
+	
+	function echeck(str) {
+
+		var at="@"
+		var dot="."
+		var lat=str.indexOf(at)
+		var lstr=str.length
+		var ldot=str.indexOf(dot)
+		if (str.indexOf(at)==-1){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.indexOf(at,(lat+1))!=-1){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.indexOf(dot,(lat+2))==-1){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		if (str.indexOf(" ")!=-1){
+		alert("Invalid E-mail ID")
+		return false
+		}
+
+		return true
+		}
+
+		function ValidateForm(){
+		var emailID=document.frmSample.txtEmail
+
+		if ((emailID.value==null)||emailID.value==""){
+		alert("Please Enter your Email ID")
+		emailID.focus()
+		return false
+		}
+		if (echeck(emailID.value)==false){
+		emailID.value=""
+		emailID.focus()
+		return false
+		}
+		return true
+		}
 </script>
 <style>
 body {
@@ -55,11 +121,18 @@ button {
 }
 
 .card {
-	width: 150px;
-	height: 150px;
+	background-color: #4CAF50;
+	color: blue;
+	padding: 14px 20px;
+	margin: 8px 0;
+	border: none;
+	cursor: pointer;
+	display: inline-block;
+	height: 50px !important;
+	text-decoration: none;
 }
 
-button:hover {
+button:hover , .card:hover {
 	opacity: 0.8;
 }
 
@@ -112,17 +185,18 @@ span.psw {
 	margin: 5% auto 15% auto;
 	/* 5% from the top, 15% from the bottom and centered */
 	border: 1px solid #888;
-	width: 80%; /* Could be more or less, depending on screen size */
+	width: 50%; /* Could be more or less, depending on screen size */
 }
+
 
 /* The Close Button (x) */
 .close {
-	position: absolute;
-	right: 25px;
-	top: 0;
-	color: #000;
-	font-size: 35px;
-	font-weight: bold;
+  position: absolute;
+  right: 25px;
+  top: 0;
+  color: #000;
+  font-size: 35px;
+  font-weight: bold;
 }
 
 .close:hover, .close:focus {
@@ -173,24 +247,22 @@ to {
 
 	<h2>Booking Application</h2>
 
-	<button onclick="document.getElementById('id01').style.display='block'"
-		class="card">Make a Booking</button>
-	<button onclick="document.getElementById('id02').style.display='block'"
-		class="card">View all Bookings</button>
-	<button onclick="document.getElementById('id02').style.display='block'"
-		class="card">Add User</button>
-	<button onclick="document.getElementById('id02').style.display='block'"
-		class="card">View All Rooms</button>
-	<button onclick="document.getElementById('id02').style.display='block'"
-		class="card">View Available Rooms</button>
+	<!-- <button onclick="document.getElementById('id01').style.display='block'"
+		class="card">Make a Booking</button> -->
+		<a class="card" href="<%=request.getContextPath()%>/event">View all Bookings</a>
+		<a class="card" onclick="document.getElementById('id01').style.display='block'" href="#" data-toggle="modal" data-target="#id01">Make a Booking</a>
+		<a class="card" onclick="document.getElementById('id02').style.display='block'" href="#" data-toggle="modal" data-target="#id02">Add User</a>
+	<a class="card" onclick="document.getElementById('id03').style.display='block'" href="#" data-toggle="modal" data-target="#id03">View All Rooms</a>
+	<a class="card" onclick="document.getElementById('id04').style.display='block'" href="#" data-toggle="modal" data-target="#id04">View Available Rooms</a>
+
 
 	<div id="id01" class="modal">
 
 		<form  onSubmit="return ValidateForm()" class="modal-content animate" action="booking">
-			<!--   <div class="imgcontainer">
+			   <div class="imgcontainer">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-      <img src="img_avatar2.png" alt="Avatar" class="avatar">
-    </div> -->
+    
+    </div> 
 
 			<div class="container">
 				<label for="ln"><b>Make a Booking</b></label>
@@ -228,72 +300,6 @@ to {
 		}
 	</script>
 	
-	<script language = "Javascript">
-/**
-* DHTML email validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
-*/
-
-function echeck(str) {
-
-var at="@"
-var dot="."
-var lat=str.indexOf(at)
-var lstr=str.length
-var ldot=str.indexOf(dot)
-if (str.indexOf(at)==-1){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.indexOf(at,(lat+1))!=-1){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.indexOf(dot,(lat+2))==-1){
-alert("Invalid E-mail ID")
-return false
-}
-
-if (str.indexOf(" ")!=-1){
-alert("Invalid E-mail ID")
-return false
-}
-
-return true
-}
-
-function ValidateForm(){
-var emailID=document.frmSample.txtEmail
-
-if ((emailID.value==null)||emailID.value==""){
-alert("Please Enter your Email ID")
-emailID.focus()
-return false
-}
-if (echeck(emailID.value)==false){
-emailID.value=""
-emailID.focus()
-return false
-}
-return true
-}
-</script> 
 
 </body>
 </html>
