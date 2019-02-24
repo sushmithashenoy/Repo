@@ -4593,7 +4593,7 @@
 	<!-- to use within your application. -->
 
 	<welcome-file-list>
-		<welcome-file>UserLogged.jsp</welcome-file>
+		<welcome-file>Welcome.jsp</welcome-file>
 	</welcome-file-list>
 
 	<servlet>

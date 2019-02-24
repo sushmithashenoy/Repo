@@ -5230,3 +5230,51 @@ java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquir
 
 !ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:03:03.941
 !MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:28:44.437
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.190
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.204
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.218
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.227
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.238
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.250
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.259
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.268
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.280
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.289
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.548
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.555
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.944
+!MESSAGE GWT: posiblyTerminateGwtSuperDevModeCodeServer: Stopping GWT Super Dev Mode Code Server.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:20.949
+!MESSAGE GWT: posiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-02-24 19:29:24.378
+!MESSAGE GWT: possiblyLaunchGwtSuperDevModeCodeServer: Does not have a GWT Facet.
