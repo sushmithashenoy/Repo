@@ -162,18 +162,20 @@ to {
 </style>
 </head>
 <body>
-
+<strong><a href="<%=request.getContextPath()%>/UserLogged.jsp">Back</a></strong>
+	<strong><a style="float: right;"
+		href="<%=request.getContextPath()%>/Welcome.jsp">Logout</a></strong>
+	<br></br>
 	<div class="container">
 		<%
-			out.println("Booking confirmed for the user : " + request.getAttribute("name"));
-			out.println("Booking Reference: " + request.getAttribute("booking"));
-			out.println(" from : " + request.getAttribute("from"));
-			out.println(" to : " + request.getAttribute("to"));
+			out.println("Booking confirmed for the user : " + request.getAttribute("name")+"<br>");
+			out.println("Booking Reference: " + request.getAttribute("booking")+"<br>");
+			out.println(" from : " + request.getAttribute("from")+"<br>");
+			out.println(" to : " + request.getAttribute("to")+"<br>");
 		%>
 
 	</div>
 
-	</div>
 
 </body>
 </html>

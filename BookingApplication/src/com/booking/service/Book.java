@@ -1,0 +1,86 @@
+package com.booking.service;
+
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+public class Book {
+	private final String title;
+	private final String authorName;
+	private final int pageCount;
+	private final int yearOfRelease;
+
+	public Book(String title, String authorName, int pageCount, int yearOfRelease) {
+		super();
+		this.title = title;
+		this.authorName = authorName;
+		this.pageCount = pageCount;
+		this.yearOfRelease = yearOfRelease;
+	}
+
+	public String getTitle() {
+		return title;
+	}
+
+	public String getAuthorName() {
+		return authorName;
+	}
+
+	public int getPageCount() {
+		return pageCount;
+	}
+
+	public int getYearOfRelease() {
+		return yearOfRelease;
+	}
+
+
+	public static List<Book> sampleBookList() {
+		List<Book> list = new ArrayList<>();
+		list.add(new Book("The Restaurant at the End of the Universe", "Douglas Adams", 334, 1980));
+		list.add(new Book("Winnetou", "Karl May", 520, 1893));
+		list.add(new Book("So Long, and Thanks for All the Fish", "Douglas Adams", 290, 1984));
+		list.add(new Book("Dreigroschenoper", "Berthold Brecht", 211, 1928));
+		list.add(new Book("Schatz am Silbersee", "Karl May", 420, 1890));
+		list.add(new Book("Artemis", "Andy Weir", 367, 2017));
+		list.add(new Book("Buddenbrooks", "Thomas Mann", 238, 1901));
+		list.add(new Book("The Salmon of Doubt", "Douglas Adams", 150, 2003));
+		list.add(new Book("The Martian", "Andy Weir", 240, 2011));
+		list.add(new Book("Mostly Harmless", "Douglas Adams", 432, 1992));
+		list.add(new Book("Der Zauberberg", "Thomas Mann", 155, 1924));
+		return list;
+	}
+
+	/*
+	 * Take a list of books, filter by age, sort by page count but keep books by the
+	 * same author together. So, the list would start with the thinnest book of all,
+	 * followed by the other books of the same author in order of page count,
+	 * followed by the next thinnest book of the rest, and so on.
+	 */
+	public static List<Book> booksGroupedByAuthorSortedByPageCount(List<Book> books, int minYearOfRelease,
+			int maxYearOfRelease) {
+		filerByAge(books, minYearOfRelease, maxYearOfRelease);                                                                      
+		groupByAuthorSortedByPageCount(books);                                                                                
+		return books;
+	}
+
+	private static void groupByAuthorSortedByPageCount(List<Book> books) {
+		Map<String, List<Book>> groupedByAuthor = books.stream().collect(Collectors.groupingBy(Book::getAuthorName));                     // grouped by author
+		groupedByAuthor.forEach((k, v) -> v.sort((v1, v2) -> Long.compare(v1.getPageCount(), v2.getPageCount())));                        // lists sorted by page count
+		books.clear();
+		groupedByAuthor.entrySet().stream()
+		               .sorted(Map.Entry.comparingByValue((v1, v2) -> Long.compare(v1.get(0).getPageCount(), v2.get(0).getPageCount())))   // groups sorted by page count
+				       .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (oldValue, newValue) -> oldValue,LinkedHashMap::new))
+				       .forEach((k, v) -> books.addAll(v));
+	}
+
+	private static void filerByAge(List<Book> books, int minYearOfRelease, int maxYearOfRelease) {
+		books = books.stream().filter(book -> book.yearOfRelease > minYearOfRelease && book.yearOfRelease < maxYearOfRelease).collect(Collectors.toList());
+	}
+
+	public static void main(String[] args) {
+		Book.booksGroupedByAuthorSortedByPageCount(Book.sampleBookList(), 1800, 2019).forEach(b -> System.out.println(b.yearOfRelease + "  " + b.pageCount + "       " + b.authorName));
+	}
+}

@@ -35,7 +35,7 @@ public class BookingServlet extends HttpServlet {
 			request.setAttribute("booking", event.getReservationID());
 			request.setAttribute("from", event.getCheckIn());
 			request.setAttribute("to", event.getCheckOut());
-			RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("BookingConfirmation.jsp");
+			RequestDispatcher dispatcher = getServletContext().getRequestDispatcher("/BookingConfirmation.jsp");
 			dispatcher.forward(request, response);
 			}
 		} catch (Exception e) {

@@ -245,10 +245,10 @@ to {
 </head>
 <body>
 <%@page import="com.booking.model.User"%>
-	<h2>Booking Application</h2>
-	<strong style="float: right;">Logged in as <%=((User)session.getAttribute("currentSessionUser")).getUsername()%><a 
+<strong style="float: right;">Logged in as <%=((User)session.getAttribute("currentSessionUser")).getUsername()%><a 
 		href="<%=request.getContextPath()%>/Welcome.jsp">Logout</a></strong>
 	<br></br>
+	<h2>Booking Application</h2>
 
 	<!-- <button onclick="document.getElementById('id01').style.display='block'"
 		class="card">Make a Booking</button> -->
