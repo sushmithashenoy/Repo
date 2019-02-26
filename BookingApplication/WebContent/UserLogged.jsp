@@ -12,76 +12,15 @@
 	href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
 <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
 <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<script>
-function submitForm(x){
-    if(x.id=='id2'){
-       document.getElementById('id2').value='event';
-    }
- }
+<script type="text/javascript">
+	function submitForm(x) {
+		if (x.id == 'id2') {
+			document.getElementById('id2').value = 'event';
+		}
+	}
 	$(function() {
 		$(".datepicker").datepicker();
 	});
-	
-	function echeck(str) {
-
-		var at="@"
-		var dot="."
-		var lat=str.indexOf(at)
-		var lstr=str.length
-		var ldot=str.indexOf(dot)
-		if (str.indexOf(at)==-1){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.indexOf(at)==-1 || str.indexOf(at)==0 || str.indexOf(at)==lstr){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.indexOf(dot)==-1 || str.indexOf(dot)==0 || str.indexOf(dot)==lstr){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.indexOf(at,(lat+1))!=-1){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.substring(lat-1,lat)==dot || str.substring(lat+1,lat+2)==dot){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.indexOf(dot,(lat+2))==-1){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		if (str.indexOf(" ")!=-1){
-		alert("Invalid E-mail ID")
-		return false
-		}
-
-		return true
-		}
-
-		function ValidateForm(){
-		var emailID=document.frmSample.txtEmail
-
-		if ((emailID.value==null)||emailID.value==""){
-		alert("Please Enter your Email ID")
-		emailID.focus()
-		return false
-		}
-		if (echeck(emailID.value)==false){
-		emailID.value=""
-		emailID.focus()
-		return false
-		}
-		return true
-		}
 </script>
 <style>
 body {
@@ -132,13 +71,13 @@ button {
 	text-decoration: none;
 }
 
-button:hover , .card:hover {
+button:hover, .card:hover {
 	opacity: 0.8;
 }
 
 /* Extra styles for the cancel button */
 .cancelbtn {
-/* 	width: auto;
+	/* 	width: auto;
 	padding: 10px 18px; */
 	background-color: #f44336;
 }
@@ -188,15 +127,14 @@ span.psw {
 	width: 50%; /* Could be more or less, depending on screen size */
 }
 
-
 /* The Close Button (x) */
 .close {
-  position: absolute;
-  right: 25px;
-  top: 0;
-  color: #000;
-  font-size: 35px;
-  font-weight: bold;
+	position: absolute;
+	right: 25px;
+	top: 0;
+	color: #000;
+	font-size: 35px;
+	font-weight: bold;
 }
 
 .close:hover, .close:focus {
@@ -244,40 +182,56 @@ to {
 </style>
 </head>
 <body>
-<%@page import="com.booking.model.User"%>
-<strong style="float: right;">Logged in as <%=((User)session.getAttribute("currentSessionUser")).getUsername()%><a 
+	<%@page import="com.booking.model.User"%>
+	<strong style="float: right;">Logged in as <%=((User) session.getAttribute("currentSessionUser")).getUsername()%><a
 		href="<%=request.getContextPath()%>/Welcome.jsp">Logout</a></strong>
 	<br></br>
 	<h2>Booking Application</h2>
 
 	<!-- <button onclick="document.getElementById('id01').style.display='block'"
 		class="card">Make a Booking</button> -->
-		<a class="card" href="<%=request.getContextPath()%>/event">View all Bookings</a>
-		<a class="card" onclick="document.getElementById('id01').style.display='block'" href="#" data-toggle="modal" data-target="#id01">Make a Booking</a>
-		<a class="card" onclick="document.getElementById('id02').style.display='block'" href="#" data-toggle="modal" data-target="#id02">Add User</a>
-	<a class="card" onclick="document.getElementById('id03').style.display='block'" href="#" data-toggle="modal" data-target="#id03">View All Rooms</a>
-	<a class="card" onclick="document.getElementById('id04').style.display='block'" href="#" data-toggle="modal" data-target="#id04">View Available Rooms</a>
+	<a class="card" href="<%=request.getContextPath()%>/event">View all
+		Bookings</a>
+	<a class="card"
+		onclick="document.getElementById('id01').style.display='block'"
+		href="#" data-toggle="modal" data-target="#id01">Make a Booking</a>
+	<a class="card"
+		onclick="document.getElementById('id02').style.display='block'"
+		href="#" data-toggle="modal" data-target="#id02">Add User</a>
+	<a class="card"
+		onclick="document.getElementById('id03').style.display='block'"
+		href="#" data-toggle="modal" data-target="#id03">View All Rooms</a>
+	<a class="card"
+		onclick="document.getElementById('id04').style.display='block'"
+		href="#" data-toggle="modal" data-target="#id04">View Available
+		Rooms</a>
 
 
 	<div id="id01" class="modal">
 
-		<form  onSubmit="return ValidateForm()" class="modal-content animate" action="booking">
-			   <div class="imgcontainer">
-      <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">&times;</span>
-    
-    </div> 
+		<form onSubmit="return ValidateForm();" class="modal-content animate"
+			action="booking">
+			<div class="imgcontainer">
+				<span onclick="document.getElementById('id01').style.display='none'"
+					class="close" title="Close Modal">&times;</span>
+
+			</div>
 
 			<div class="container">
-				<label for="ln"><b>Make a Booking</b></label>
-				 <input type="text"
-					placeholder="FirstName" name="fn" required> <input
-					type="password" placeholder="LastName" name="ln" required>
-					<input type="text" placeholder="email@example.com"  name="txtEmail"> 
-					<input type="text" placeholder="Telephone"  name="contact"> 
-				<div class="container" >
+				<label for="ln"><b>Make a Booking</b></label> 
+				<input type="text" placeholder="FirstName" name="fn" required> 
+				<input type="text" placeholder="LastName" name="ln" required> 
+				<input type="text" placeholder="email@example.com" id="txtEmail" name="txtEmail" onkeyup="ValidateForm()"
+					pattern="[\w-]+@([\w-]+\.)+[\w-]+"
+					title="Must be a valid email address with the format eg. example@exampledomain.com">
+				<input type="text" placeholder="Telephone" name="contact"
+					pattern="([+][0-9]{1,2})?[0-9]{8,12}"
+					title="Must be a valid telephone number eg. +49 1234567890">
+				<div class="container">
 					<input type="text" name="from" id="from" class="datepicker"
-						placeholder="Check in" required style="display: inline;float:left;"> <input type="text"
-						class="datepicker" name="to" id="to" placeholder="Check out" required style="display: inline;float:left;">
+						placeholder="Check in" required> 
+					<input type="text" class="datepicker" name="to" id="to" placeholder="Check out"
+						required style="display: inline; float: right;">
 				</div>
 
 			</div>
@@ -290,7 +244,73 @@ to {
 			</div>
 		</form>
 	</div>
+	<script>
+		function echeck(str) {
 
+			var at = "@"
+			var dot = "."
+			var lat = str.indexOf(at)
+			var lstr = str.length
+			var ldot = str.indexOf(dot)
+			if (str.indexOf(at) == -1) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.indexOf(at) == -1 || str.indexOf(at) == 0
+					|| str.indexOf(at) == lstr) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.indexOf(dot) == -1 || str.indexOf(dot) == 0
+					|| str.indexOf(dot) == lstr) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.indexOf(at, (lat + 1)) != -1) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.substring(lat - 1, lat) == dot
+					|| str.substring(lat + 1, lat + 2) == dot) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.indexOf(dot, (lat + 2)) == -1) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			if (str.indexOf(" ") != -1) {
+				alert("Invalid E-mail ID")
+				return false
+			}
+
+			return true
+		}
+
+		function ValidateForm() {
+			console
+					.log("validating form --------------------------------------------");
+			var emailID = document.getElementById(txtEmail);
+
+			if ((emailID.value == null) || emailID.value == "") {
+				alert("Please Enter your Email ID")
+				emailID.focus()
+				return false
+			}
+			if (echeck(emailID.value) == false) {
+				emailID.value = ""
+				emailID.focus()
+				return false
+			}
+			return true
+		}
+	</script>
 	<script>
 		// Get the modal
 		var modal = document.getElementById('id01');
@@ -302,7 +322,7 @@ to {
 			}
 		}
 	</script>
-	
+
 
 </body>
 </html>
