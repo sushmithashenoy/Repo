@@ -219,19 +219,19 @@ to {
 
 			<div class="container">
 				<label for="ln"><b>Make a Booking</b></label> 
-				<input type="text" placeholder="FirstName" name="fn" required> 
-				<input type="text" placeholder="LastName" name="ln" required> 
-				<input type="text" placeholder="email@example.com" id="txtEmail" name="txtEmail" onkeyup="ValidateForm()"
+				<input type="text" placeholder="FirstName" name="fn" required/> 
+				<input type="text" placeholder="LastName" name="ln" required/> 
+				<input type="text" placeholder="email@example.com" id="txtEmail" name="txtEmail" onkeyup="ValidateForm();"
 					pattern="[\w-]+@([\w-]+\.)+[\w-]+"
-					title="Must be a valid email address with the format eg. example@exampledomain.com">
+					title="Must be a valid email address with the format eg. example@exampledomain.com"/>
 				<input type="text" placeholder="Telephone" name="contact"
 					pattern="([+][0-9]{1,2})?[0-9]{8,12}"
-					title="Must be a valid telephone number eg. +49 1234567890">
+					title="Must be a valid telephone number eg. +49 1234567890"/>
 				<div class="container">
 					<input type="text" name="from" id="from" class="datepicker"
-						placeholder="Check in" required> 
+						placeholder="Check in" required/> 
 					<input type="text" class="datepicker" name="to" id="to" placeholder="Check out"
-						required style="display: inline; float: right;">
+						required style="display: inline; float: right;" onblur="compare();"/>
 				</div>
 
 			</div>
@@ -245,6 +245,21 @@ to {
 		</form>
 	</div>
 	<script>
+	
+	function compare()
+	{
+		console
+		.log("validating form --------------------------------------------");
+	    var startDt = document.getElementById("from").value;
+	    var endDt = document.getElementById("to").value;
+
+	    if( (new Date(startDt).getTime() > new Date(endDt).getTime()))
+	    {
+	    	 alert("Start date should not be later than the end date");
+	        return false;
+	    }
+	    return true;
+	}
 		function echeck(str) {
 
 			var at = "@"
